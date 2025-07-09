@@ -1,5 +1,5 @@
 # Portfólio de Cibersegurança de Bernardo.
-
+![Cybersecurity Banner](https://ibb.co/zVkJ4htj)
 Bem-vindo ao meu portfólio de cibersegurança! Este repositório serve como uma coleção centralizada dos meus projetos, estudos, scripts e análises na área de segurança da informação.
 
 ---
