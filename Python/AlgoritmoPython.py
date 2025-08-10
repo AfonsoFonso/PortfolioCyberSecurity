@@ -6,7 +6,6 @@
 # 10.0.0.5
 # 172.16.0.5
 
-# O código a seguir irá ler, modificar e reescrever este arquivo.
 
 # Define o nome do arquivo a ser modificado
 import_file = "allow_list.txt"
@@ -14,8 +13,6 @@ import_file = "allow_list.txt"
 # Lista de endereços IP que devem ser removidos
 remove_list = ["10.0.0.1", "192.168.1.2"]
 
-# Etapa 1: Abrir e ler o conteúdo do arquivo
-# O 'with' garante que o arquivo seja fechado automaticamente
 try:
     with open(import_file, 'r') as file:
         ip_addresses = file.read()
@@ -50,3 +47,4 @@ with open(import_file, 'w') as file:
     file.write(ip_addresses_string)
 
 print("\nArquivo 'allow_list.txt' atualizado com sucesso!")
+
