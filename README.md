@@ -45,3 +45,13 @@ Este repositório foi criado para:
 * **Windows:** Windows Server, Active Directory
 
 ---
+
+### 📝 Write-Ups
+
+Coleção de write-ups de máquinas de Active Directory, Windows e Linux resolvidas em HackTheBox e outras plataformas de prática, documentando enumeração, exploração e escalonamento de privilégio ponta a ponta.
+
+| Máquina | Plataforma | SO | Dificuldade | Técnicas Chave | Write-up |
+|---|---|---|---|---|---|
+| Forest | HackTheBox | Windows / AD | Easy | AS-REP Roasting, ACL Abuse, DCSync | [PT-BR](WriteUps/Forest/README.md) · [EN](WriteUps/Forest/README.en.md) |
+
+---
