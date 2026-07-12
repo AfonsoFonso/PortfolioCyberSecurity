@@ -7,7 +7,6 @@ Bem-vindo ao meu portfólio de cibersegurança! Este repositório serve como uma
 
 Olá! Sou o Bernardo, um entusiasta da área de Cibersegurança. Meu objetivo é aplicar meus conhecimentos para proteger sistemas e dados contra ameaças digitais. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na carreira.
 
-**Atualmente focando em obter o certificado Jr Penetration Tester (PT1) pela plataforma TryHackMe
 
 ---
 
