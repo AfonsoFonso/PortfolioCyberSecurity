@@ -52,5 +52,6 @@ Coleção de write-ups de máquinas de Active Directory, Windows e Linux resolvi
 | Máquina | Plataforma | SO | Dificuldade | Técnicas Chave | Write-up |
 |---|---|---|---|---|---|
 | Forest | HackTheBox | Windows / AD | Easy | AS-REP Roasting, ACL Abuse, DCSync | [PT-BR](WriteUps/Forest/README.md) · [EN](WriteUps/Forest/README.en.md) |
+| Sauna | HackTheBox | Windows / AD | Easy | OSINT, AS-REP Roasting, AutoLogon Credentials, DCSync | [PT-BR](WriteUps/Sauna/README.md) · [EN](WriteUps/Sauna/README.en.md) |
 
 ---
